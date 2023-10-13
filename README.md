@@ -1,1 +1,1 @@
-[#vrnc](https://verdadenitaliano.github.io/vrnc/index.html)
+https://verdadenitaliano.github.io/vrnc/index.html
